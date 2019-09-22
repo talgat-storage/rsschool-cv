@@ -8,6 +8,7 @@ I am an experienced software developer and I am planning to learn the front-end 
 
 ### Skills
 **Programming languages**: C/C++, Python, Javascript
+
 **Frameworks**: Django, Bootstrap
 
 ### Code examples
@@ -31,7 +32,7 @@ I am a software development engineer with about four years of experience. During
 
 One year ago, I became interested in web development, so I started learning different front-end, back-end and UI frameworks; however, I enjoyed and spent most of the time with the Bootstrap framework and the Django framework. When I built and deployed a website with the help of these frameworks, I started looking for an opportunity to learn something new.
 
-Currently, I am going towards learning the React framework and the front-end in general. Fortunately, I got to know about the course from the RS School and I am very happy to learn new skills from that course.
+Currently, I am going towards learning the React framework and the front-end development in general. Fortunately, I got to know about the course from the RS School and I am very happy to learn new skills from that course.
 
 ### Education
 2013-2017 | Korea Advanced Institute of Science and Technology
