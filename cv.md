@@ -1,5 +1,6 @@
 # Talgat Iskindir
 **Email**: talgat.iskindir@gmail.com
+
 **Phone**: +77077807477
 
 ### Summary
@@ -27,7 +28,9 @@ StreamChecker.prototype.query = function(letter) {
 
 ### Experience
 I am a software development engineer with about four years of experience. During the first three years, I was programming in C/C++ and was building programs related to computer networks and distributed systems; some of the projects required me to develop a proxy server, a load balancer, a torrent-like application, a VPN desktop client and a Linux-kernel VPN module. I was dealing with these projects during my university days and while I was working in a company which focuses on development of hardware and software that allows computer systems in government agencies and banks to be secure.
+
 One year ago, I became interested in web development, so I started learning different front-end, back-end and UI frameworks; however, I enjoyed and spent most of the time with the Bootstrap framework and the Django framework. When I built and deployed a website with the help of these frameworks, I started looking for an opportunity to learn something new.
+
 Currently, I am going towards learning the React framework and the front-end in general. Fortunately, I got to know about the course from the RS School and I am very happy to learn new skills from that course.
 
 ### Education
