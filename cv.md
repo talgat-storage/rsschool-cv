@@ -34,8 +34,6 @@ One year ago, I became interested in web development, so I started learning diff
 Currently, I am going towards learning the React framework and the front-end in general. Fortunately, I got to know about the course from the RS School and I am very happy to learn new skills from that course.
 
 ### Education
-Years | Name
------ | ----
 2013-2017 | Korea Advanced Institute of Science and Technology
 
 ### English
