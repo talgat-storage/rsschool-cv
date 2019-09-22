@@ -2,7 +2,8 @@
 **Email**: talgat.iskindir@gmail.com
 **Phone**: +77077807477
 
-*I wish to become an expert in front-end development and, especially, in the React framework.*
+### Summary
+I am an experienced software developer and I am planning to learn the front-end development and, especially, the React framework more thoroughly.
 
 ### Skills
 **Programming languages**: C/C++, Python, Javascript
